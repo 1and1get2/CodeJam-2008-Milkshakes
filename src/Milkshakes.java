@@ -1,3 +1,6 @@
+/*
+ * this file has been abandoned, becuz of my mis-understanding at first
+ */
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
